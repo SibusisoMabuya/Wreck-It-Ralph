@@ -1,0 +1,73 @@
+    body {
+        margin: 0;
+        font-family: Helvetica, Ariel, sans-serif;
+        font-size: 20px;
+        line-height: 30px;
+    }
+
+    header {
+        background-color: tomato;
+        text-align: center;
+        padding-top: 50px;
+        padding-bottom: 50px;
+    }
+
+    h2 {
+        font-size: 30px;
+        color: firebrick;
+        padding: 40px 0 10px;
+    }
+
+    a {
+        color: firebrick;
+    }
+
+    a:hover {
+        color: floralwhite;
+        background-color: slateblue;
+    }
+
+    h1, h2 {
+        font-family: "Press Start 2P", serif;
+        font-weight: 400;
+        font-style: normal;
+    }
+
+    header h1 {
+        color: floralwhite;
+        font-size: 50px;
+        padding-top: 30px;
+        
+    }
+
+    header img {
+        border-radius: 170px;
+        width: 300px;
+        border: 15px solid floralwhite;
+    }
+
+    p.caption {
+        color: lightslategrey;
+        font-style: italic;
+        margin-top: 0;
+    }
+
+    main {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 20px;
+    }
+
+    main img {
+        max-width: 100%;
+    }
+
+    footer {
+        background-color: tomato;
+        text-align: center;
+        padding: 50px;
+    }
+
+    footer p {
+        margin: 0;
+    }
